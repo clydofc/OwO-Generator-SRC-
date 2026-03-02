@@ -12,7 +12,7 @@
 
 # 🐾 OwO Generator
 
-> **Automated OwO bot command sender for Discord — built by Nova Development.**
+> **Automated OwO bot command sender for Discord — built by Odin (`odinfov`).**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/3xjw8snjnB)
@@ -25,7 +25,7 @@
 
 **OwO Generator** is a Python-based automation tool that automatically sends OwO bot commands in a specified Discord channel. It handles hunting, selling, cashing out, and coin-flipping — all on autopilot — so you can farm OwO coins and items without lifting a finger.
 
-This tool was developed by **Nova Development** for educational and personal use only.
+This tool was developed by **Odin (`odinfov`)** for educational and personal use only.
 
 ---
 
@@ -65,8 +65,8 @@ pip install requests
 ### Step 1 — Clone or Download the Project
 
 ```bash
-git clone https://github.com/YourUsername/OwO-Generator.git
-cd OwO-Generator
+git clone https://github.com/odinfov/OwO-Generator-SRC-.git
+cd OwO-Generator-SRC-
 ```
 
 Or simply download and extract the ZIP file.
@@ -145,14 +145,14 @@ OwO-Generator/
 > **This tool is made for educational purposes only.**
 >
 > - Using self-bots or automation tools on Discord **may violate Discord's Terms of Service**.
-> - The developer (**Nova Development**) is **not responsible** for any bans, suspensions, or other consequences resulting from the use of this tool.
+> - The developer (**Odin / odinfov**) is **not responsible** for any bans, suspensions, or other consequences resulting from the use of this tool.
 > - Use at your own risk.
 
 ---
 
 ## 🔒 Privacy Policy
 
-**Nova Development** takes your privacy seriously.
+**Odin (`odinfov`)** takes your privacy seriously.
 
 - We **do not collect**, store, or share your Discord tokens with any third party.
 - Token verification is done locally on your machine.
@@ -168,8 +168,8 @@ By downloading and using **OwO Generator**, you agree to the following:
 
 1. You will **not** use this tool to harm, harass, or disrupt other Discord users.
 2. You acknowledge that this tool may violate Discord's Terms of Service and you accept all associated risks.
-3. You will **not** redistribute or resell this tool without permission from Nova Development.
-4. Nova Development reserves the right to update or discontinue this project at any time.
+3. You will **not** redistribute or resell this tool without permission from **Odin (odinfov)**.
+4. **Odin (odinfov)** reserves the right to update or discontinue this project at any time.
 
 ---
 
