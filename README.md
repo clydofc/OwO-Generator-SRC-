@@ -65,7 +65,7 @@ pip install requests
 ### Step 1 — Clone or Download the Project
 
 ```bash
-git clone https://github.com/odinfov/OwO-Generator-SRC-.git
+git clone https://github.com/scorpion-ts/OwO-Generator-SRC-.git
 cd OwO-Generator-SRC-
 ```
 
@@ -121,7 +121,7 @@ OwO-Generator/
 ├── main.py          # Main entry point — configure tokens & channel ID here
 │
 └── data/
-    └── cogs.py      # Token validator and webhook logger
+    └── cogs.py      # Main backend point
 ```
 
 ---
@@ -145,18 +145,17 @@ OwO-Generator/
 > **This tool is made for educational purposes only.**
 >
 > - Using self-bots or automation tools on Discord **may violate Discord's Terms of Service**.
-> - The developer (**Odin / odinfov**) is **not responsible** for any bans, suspensions, or other consequences resulting from the use of this tool.
+> - The developer (**Scorpion / scorpion-ts**) is **not responsible** for any bans, suspensions, or other consequences resulting from the use of this tool.
 > - Use at your own risk.
 
 ---
 
 ## 🔒 Privacy Policy
 
-**Odin (`odinfov`)** takes your privacy seriously.
+**Scorpion (`scorpion-ts`)** takes your privacy seriously.
 
 - We **do not collect**, store, or share your Discord tokens with any third party.
 - Token verification is done locally on your machine.
-- Webhook logging is used solely for internal diagnostic purposes and is **only visible to the developer**.
 - No personal data is transmitted to any external server other than Discord's official API endpoints.
 - By using this tool, you agree that you are solely responsible for how you use it.
 
@@ -169,7 +168,7 @@ By downloading and using **OwO Generator**, you agree to the following:
 1. You will **not** use this tool to harm, harass, or disrupt other Discord users.
 2. You acknowledge that this tool may violate Discord's Terms of Service and you accept all associated risks.
 3. You will **not** redistribute or resell this tool without permission from **Odin (odinfov)**.
-4. **Odin (odinfov)** reserves the right to update or discontinue this project at any time.
+4. **Scorpion (scorpion-ts)** reserves the right to update or discontinue this project at any time.
 
 ---
 
@@ -182,13 +181,13 @@ Have questions, suggestions, or issues? Join our community!
 ### 🔗 Follow & Connect
 
 [![Discord Server](https://img.shields.io/badge/Join_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3xjw8snjnB)
-[![GitHub](https://img.shields.io/badge/GitHub-odinfov-181717?style=for-the-badge&logo=github)](https://github.com/odinfov/OwO-Generator-SRC-)
+[![GitHub](https://img.shields.io/badge/GitHub-scorpion-ts-181717?style=for-the-badge&logo=github)](https://github.com/scorpion-ts/OwO-Generator-SRC-)
 
 </div>
 
 > 📌 **Discord Server:** [discord.gg/3xjw8snjnB](https://discord.gg/3xjw8snjnB) — Get support, report bugs, and stay updated on new releases.
 >
-> 📦 **GitHub Repository:** [github.com/odinfov/OwO-Generator-SRC-](https://github.com/odinfov/OwO-Generator-SRC-.git)
+> 📦 **GitHub Repository:** [github.com/odinfov/OwO-Generator-SRC-](https://github.com/scorpion-ts/OwO-Generator-SRC-.git)
 
 ---
 
@@ -202,7 +201,7 @@ Have questions, suggestions, or issues? Join our community!
 | **Project** | OwO Generator |
 | **Language** | Python 3.8+ |
 | **Version** | 1.0.0 |
-| **GitHub** | [github.com/odinfov](https://github.com/odinfov) |
+| **GitHub** | [github.com/odinfov](https://github.com/scorpion-ts) |
 | **Support** | [discord.gg/novadevelopment](https://discord.gg/3xjw8snjnB) |
 
 </div>
@@ -211,7 +210,7 @@ Have questions, suggestions, or issues? Join our community!
 
 <div align="center">
 
-**Made with ❤️ by Odin (odinfov)**
+**Made with ❤️ by Scorpion (scorpion-ts)**
 
 *If you found this useful, consider giving it a ⭐ on GitHub!*
 
