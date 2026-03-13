@@ -65,7 +65,7 @@ pip install requests
 ### Step 1 — Clone or Download the Project
 
 ```bash
-git clone https://github.com/scorpion-ts/OwO-Generator-SRC-.git
+git clone https://github.com/clydofc/OwO-Generator-SRC-.git
 cd OwO-Generator-SRC-
 ```
 
@@ -145,7 +145,7 @@ OwO-Generator/
 > **This tool is made for educational purposes only.**
 >
 > - Using self-bots or automation tools on Discord **may violate Discord's Terms of Service**.
-> - The developer (**Scorpion / scorpion-ts**) is **not responsible** for any bans, suspensions, or other consequences resulting from the use of this tool.
+> - The developer (**Clyd / clydofc**) is **not responsible** for any bans, suspensions, or other consequences resulting from the use of this tool.
 > - Use at your own risk.
 
 ---
